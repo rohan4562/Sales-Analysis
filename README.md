@@ -64,7 +64,7 @@ An interactive **Sales Dashboard** with the following key visuals:
 - 📦 **Product Category Performance**
 - 📉 **Top Declining Regions & Actionable Insights**
 
-![Dashboard Preview](dashboard-preview.png) <!-- Optional: Add your own image -->
+![Dashboard Preview](dashboard-preview.pdf) <!-- Optional: Add your own image -->
 
 ---
 
